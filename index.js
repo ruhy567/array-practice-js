@@ -1,4 +1,4 @@
-const number = [56, 82, 93, 34, 05];
+const number = [56, 82, 93, 34, 56];
 console.log(number.length);
 //get element value by index
 console.log(number[3]);
